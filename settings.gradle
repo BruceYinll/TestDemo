@@ -1,0 +1,2 @@
+include ':9_animation', ':6_playmusic'
+include ':_05_撕衣服'
